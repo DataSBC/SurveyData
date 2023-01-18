@@ -1,7 +1,7 @@
 Date,Carrier,Tracking #,CarrierDescription,Order #,Delivery City,Star Rating,Comment,FeedbackCategory,Subcategory
 Tue Jan 10 00:00:00 GMT 2023,ups,"	92419902712015573015282777",MI,"	71928683",PASSAIC; NJ; US; 07055,4,Package was delivered,Thanks/Praise,Thanks/Praise
 Tue Jan 10 00:00:00 GMT 2023,ups,"	92419902712015573014553595",MI,"	null",MONTICELLO; IA; US; 52310,5,"As always, great company!",Thanks/Praise,Thanks/Praise
-Mon Jan 09 00:00:00 GMT 2023,ups,"	92419902712015573015118977",MI,"	null",LANCASTER; NY; US; 14086,1,I have emailed aout my missing books and never got a response,No Response from CS,No Response from CS
+Mon Jan 09 00:00:00 GMT 2023,ups,"	92419902712015573015118977",MI,"	null",LANCASTER; NY; US; 14086,1,I have emailed aout my missing books and never got a response,Other,No Response from CS
 Mon Jan 09 00:00:00 GMT 2023,ups,"	92419902712015573015118977",MI,"	null",LANCASTER; NY; US; 14086,1,I have emailed aout my missing books and never got a response,Item Missing/Damaged,Item Missing/Damaged
 Mon Jan 09 00:00:00 GMT 2023,ups,"	92419902712015573014988335",MI,"	71862194",TULARE; CA; US; 93274,1,"I ordered books as gifts for my students. Not only did they not arrive in time for Christmas, some of the orders have had the same status for weeks. Two haven't even shipped.",Delayed Shipping/Delivery,Delayed Shipping/Delivery
 Mon Jan 09 00:00:00 GMT 2023,ups,"	MI011127C718621941",MI,"	71862194",,1,"I ordered books as gifts for my students. Not only did they not arrive in time for Christmas, some of the orders have had the same status for weeks. Two haven't even shipped.",Delayed Shipping/Delivery,Delayed Shipping/Delivery
@@ -10,7 +10,7 @@ Mon Jan 09 00:00:00 GMT 2023,ups,"	92419902712015573015289059",MI,"	71929534",OC
 Mon Jan 09 00:00:00 GMT 2023,ups,"	92419902712015573014963806",MI,"	null",PAMPA; TX; US; 79065,1,NEVER GOT PACKAGE!!,Delayed Shipping/Delivery,Delayed Shipping/Delivery
 Sun Jan 08 00:00:00 GMT 2023,ups,"	92419902712015573015109210",MI,"	71889179",SPOKANE; WA; US; 99208,1,These books were Christmas presents and have yet to arrive.,Delayed Shipping/Delivery,Delayed Shipping/Delivery
 Sun Jan 08 00:00:00 GMT 2023,ups,"	92419902712015573014859857",MI,"	null",NILES; MI; US; 49120,1,I did not receive this order.,Delayed Shipping/Delivery,Delayed Shipping/Delivery
-Sat Jan 07 00:00:00 GMT 2023,ups,"	92419902712015573015338498",MI,"	71942090",RANDOLPH; MA; US; 02368,3,I’m looking for more teenage books and it was hard to find them. I wish there was a teen scholastic magazine.,Lacking Variety,Lacking Variety
+Sat Jan 07 00:00:00 GMT 2023,ups,"	92419902712015573015338498",MI,"	71942090",RANDOLPH; MA; US; 02368,3,I’m looking for more teenage books and it was hard to find them. I wish there was a teen scholastic magazine.,Other,Lacking Variety
 Sat Jan 07 00:00:00 GMT 2023,ups,"	1Z1W1R130318876693",UPS Ground,"	71931611",COLUMBUS; OH; US; 43219,5,On time delivery,Thanks/Praise,Thanks/Praise
 Fri Jan 06 00:00:00 GMT 2023,ups,"	92419902712015573015300174",MI,"	71932386",SALINA; KS; US; 67401,5,My book order was delivered really quickly! Even several days earlier than it originally showed.,Thanks/Praise,Thanks/Praise
 Fri Jan 06 00:00:00 GMT 2023,ups,"	1Z1W1R130318889250",UPS Ground,"	71934620",THORNTON; CO; US; 80229,5,Super Speedy Delivery! Thank Youuu!,Thanks/Praise,Thanks/Praise
